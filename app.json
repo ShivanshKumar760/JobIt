@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "Myapp",
-    "slug": "myapp",
+    "name": "Jobit",
+    "slug": "jobit",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "scheme":"myapp",
+    "scheme": "jobit",
     "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
@@ -20,13 +20,22 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.shivansh749653.myapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
       "expo-router"
-    ]
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "d1049eec-39af-4dc8-9ff1-9aefbabfb6f6"
+      }
+    }
   }
 }
