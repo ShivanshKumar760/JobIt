@@ -34,8 +34,15 @@
         "origin": false
       },
       "eas": {
-        "projectId": "d1049eec-39af-4dc8-9ff1-9aefbabfb6f6"
+        "projectId": "29bb0ac3-959e-4096-8409-73835994707e"
       }
+    },
+    "owner": "shivansh749653",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/29bb0ac3-959e-4096-8409-73835994707e"
     }
   }
 }
