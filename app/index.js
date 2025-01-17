@@ -9,7 +9,7 @@ const Home=()=>{
     return (
         <SafeAreaView style={{flex:1,backgroundColor:COLORS.lightWhite}}>
             {/* <Text>Home</Text> */}
-            <Stack.Screen options={{
+            {/* <Stack.Screen options={{
                 headerStyle:{backgroundColor:COLORS.lightWhite},
                 headerShadowVisible:false,
                 headerLeft:()=>{
@@ -21,7 +21,7 @@ const Home=()=>{
                 },
                 headerTitle:"",
                 
-            }}/>
+            }}/> */}
 
             <ScrollView showsVerticalScrollIndicator={false}>
                 <View style={{flex:1,padding:SIZES.medium}}>
