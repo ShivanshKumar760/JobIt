@@ -1,5 +1,5 @@
 # **App Demo**
-![Home Screen](https://github.com/ShivanshKumar760/JobIt/tree/master/imagesHub/Home.jpeg)
+![Home Screen](https://github.com/ShivanshKumar760/JobIt/blob/master/imagesHub/Home.jpeg)
 
 
 
