@@ -1,7 +1,7 @@
 # **App Demo**
 ![Home Screen](https://github.com/ShivanshKumar760/JobIt/blob/master/imagesHub/Home.jpeg)
 
-
+![Qr Code](https://github.com/ShivanshKumar760/JobIt/blob/master/imagesHub/qr.png)
 
 
 # **JobIT**
