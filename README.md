@@ -1,3 +1,9 @@
+# **App Demo**
+![Home Screen](https://github.com/ShivanshKumar760/JobIt/tree/master/imagesHub/Home.jpeg)
+
+
+
+
 # **JobIT**
 
 **JobIT** is a cross-platform mobile application designed to simplify the job search process. It allows users to search for and apply to jobs through an intuitive and seamless interface. The app is built with **React Native** for compatibility across Android and iOS devices and utilizes modern development tools and APIs to enhance the user experience.
