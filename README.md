@@ -34,8 +34,8 @@
 
 ### **2. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/jobit.git
-cd jobit
+git clone https://github.com/ShivanshKumar760/JobIt.git
+cd JobIt
 ```
 
 ### **3. Install Dependencies**
@@ -79,8 +79,8 @@ expo start
 ---
 
 ## **Live Project**
-- **Expo Go Live Project**: Accessible via the Expo Console.
-- **GitHub Repository**: [JobIT Code](https://github.com/your-username/jobit)
+- **Expo Go Live Project**: Accessible via the Expo Console or Click Here to Scan QR code using Expo Go [QrCode](https://expo.dev/preview/update?message=jobtit-app&updateRuntimeVersion=1.0.0&createdAt=2025-01-17T07%3A43%3A52.362Z&slug=exp&projectId=29bb0ac3-959e-4096-8409-73835994707e&group=a93b9694-3f75-4716-b47c-beba87c706fd).
+- **GitHub Repository**: [JobIT Code](https://github.com/ShivanshKumar760/JobIt.git)
 
 ---
 
